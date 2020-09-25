@@ -2,15 +2,17 @@ language_support = ["ENGLISH", "FRENCH", "JAPANESE"]
 
 
 def hello_world():
-    print("G\'day, world!")
-
+    words = "G\'day, world!"
+    print(words)
 
 def bonjour_monde():
-    print("Bonjour Monde!")
+    words = "Bonjour Monde!"
+    print(words)
 
 
 def konnichiwa():
-    print("Konnichi wa!")
+    words = "Konnichi wa!"
+    print(words)
 
 
 def select_language():
